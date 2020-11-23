@@ -1,0 +1,16 @@
+/target/
+
+#My generated diagrams
+/diagrams
+*.ucls
+
+#Eclipse generated
+.classpath
+.project
+.settings
+spring-demo.iml
+
+#Sensitive information
+*.properties
+#/src/main/resources/
+/src/main/java/spring/licenta/services/EmailService.java
